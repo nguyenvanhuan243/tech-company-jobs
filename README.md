@@ -13,3 +13,9 @@
 
 5. Job on X
 - https://x.com/jobs
+
+6. Ruby on remote
+- https://rubyonremote.com/
+
+7. Linkedin Jobs
+- https://www.linkedin.com/jobs/
