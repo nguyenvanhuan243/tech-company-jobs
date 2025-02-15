@@ -7,3 +7,9 @@
 
 3. Coderpush
 - https://coderpush.com/
+
+4. Job on ruby on rails
+- https://jobs.rubyonrails.org
+
+5. Job on X
+- https://x.com/jobs
